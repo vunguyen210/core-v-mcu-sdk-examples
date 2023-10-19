@@ -6,4 +6,4 @@
 	url = https://github.com/aws/common-io-basic.git
 [submodule "common-io/tests/Unity"]
 	path = common-io/tests/Unity
-	url = git@github.com:ThrowTheSwitch/Unity.git
+	url = https://github.com/ThrowTheSwitch/Unity.git
