@@ -1,0 +1,9 @@
+[submodule "FreeRTOS-Kernel/kernel"]
+	path = FreeRTOS-Kernel/kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "common-io/common-io-basic"]
+	path = common-io/common-io-basic
+	url = https://github.com/aws/common-io-basic.git
+[submodule "common-io/tests/Unity"]
+	path = common-io/tests/Unity
+	url = https://github.com/ThrowTheSwitch/Unity.git

@@ -1,0 +1,16 @@
+{
+  "EL": {
+    "alpha": {
+      "IDENTITY_POOL_ID": "us-west-2:b1206cc3-6d85-4c32-a378-892a9e0af120",
+      "ACCOUNT_ID": "157314457251",
+      "API_HOST": "kqi2n1el1j.execute-api.us-west-2.amazonaws.com",
+      "IOT_ENDPOINT": "ar7j3j2k3h31j-ats.iot.us-west-2.amazonaws.com"
+    },
+    "prod": {
+      "IDENTITY_POOL_ID": "us-west-2:8bd9b5dc-91d0-474d-8f1f-78691d7fe7ea",
+      "ACCOUNT_ID": "649643157927",
+      "API_HOST": "expresslink.quickconnect.freertos.us-west-2.amazonaws.com",
+      "IOT_ENDPOINT": "infineon.expresslink.iot.us-west-2.on.aws"
+    }
+  }
+}
