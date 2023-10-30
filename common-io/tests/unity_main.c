@@ -58,6 +58,8 @@ int main( void )
 	 timer tasks to be created.  See the memory management section on the
 	 FreeRTOS web site for more details on the FreeRTOS heap
 	 http://www.freertos.org/a00111.html. */
+	
+	configASSERT(pdFAIL);
 
 	for ( ;; )
 		;
