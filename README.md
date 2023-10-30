@@ -36,7 +36,7 @@ $ git submodule update --init --recursive
 
 ## Importing and running a demo
 
-All the demos within this repository are aimed to run on the [CORE-V-SDK IDE](https://github.com/openhwgroup/core-v-sdk). Onces you have installed the SDK, you will need to import the common dependency folders, `commio` and `FreeRTOS-Kernel` to the workspace. After that you can import your aimed sample demo from the sample folder and hit build after selectin the `main.c` file. Onces done it should look like the below image.
+All the demos within this repository are aimed to run on the [CORE-V-SDK IDE](https://github.com/openhwgroup/core-v-sdk). Once you have installed the SDK, you will need to import the common dependency folders, `commio` and `FreeRTOS-Kernel` to the workspace. Then, you can import your aimed sample demo from the sample folder and hit `build` after selecting the `main.c` file. Once done it should look like the below image.
 
 ![image](demo_import.png)
 
